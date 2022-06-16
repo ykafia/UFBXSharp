@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.fs": "fsharp",
+        "*.sdsl": "hlsl",
+        "*.sd*": "yaml",
+        "*sdsl.cs": "csharp",
+        "*.sdfx": "hlsl",
+        "*sd*.cs": "csharp",
+        "*.rsproj": "xml",
+        "*.slang": "hlsl",
+        "chrono": "c"
+    }
+}
