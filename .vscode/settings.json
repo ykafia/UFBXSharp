@@ -8,6 +8,7 @@
         "*sd*.cs": "csharp",
         "*.rsproj": "xml",
         "*.slang": "hlsl",
-        "chrono": "c"
+        "chrono": "c",
+        "*.tmp": "cpp"
     }
 }

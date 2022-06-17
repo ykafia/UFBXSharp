@@ -1,0 +1,11 @@
+namespace UFBX.Interop
+{
+    public enum AspectMode
+    {
+        UFBX_ASPECT_MODE_WINDOW_SIZE,
+        UFBX_ASPECT_MODE_FIXED_RATIO,
+        UFBX_ASPECT_MODE_FIXED_RESOLUTION,
+        UFBX_ASPECT_MODE_FIXED_WIDTH,
+        UFBX_ASPECT_MODE_FIXED_HEIGHT,
+    }
+}

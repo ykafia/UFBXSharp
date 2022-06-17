@@ -1,0 +1,10 @@
+namespace UFBX.Interop
+{
+    public enum SubdivisionDisplayMode
+    {
+        UFBX_SUBDIVISION_DISPLAY_DISABLED,
+        UFBX_SUBDIVISION_DISPLAY_HULL,
+        UFBX_SUBDIVISION_DISPLAY_HULL_AND_SMOOTH,
+        UFBX_SUBDIVISION_DISPLAY_SMOOTH,
+    }
+}
